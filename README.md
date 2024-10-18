@@ -14,7 +14,6 @@ flutter run
 
 ```
 
-
 ## Demo
 
 <img src="Demo/SpotifyClone5.gif" height="300em" /> <br>
